@@ -1,0 +1,20 @@
+/* styles.css */
+
+body {
+    background-color: #f8f9fa;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.card-text {
+    height: 60px;
+}
+
+#cart {
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
